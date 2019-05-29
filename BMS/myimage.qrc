@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/DongFang.jpg</file>
+        <file>image/UESTC.jpg</file>
+        <file>image/mainLoop.jpg</file>
+    </qresource>
+</RCC>
